@@ -1,8 +1,10 @@
 # Google
-HOST-SUFFIX,gstatic.com,Core
-HOST-SUFFIX,googleapis.com,Core
-HOST-SUFFIX,google.com,Core
+HOST-SUFFIX ,gstatic.com,Core
+HOST-KEYWORD,google,Core
 
-#
-HOST-SUFFIX,twimg.com,Core
-HOST-SUFFIX,twitter.com,Core
+# Twitter
+HOST-SUFFIX ,twimg.com,Core
+HOST-KEYWORD,twitter,Core
+
+# Github
+HOST-KEYWORD,github,Core
